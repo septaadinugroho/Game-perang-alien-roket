@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Perang alien
+PURPOSE OF PROJECT: Portfolio Java game berbasis Greenfoot
+VERSION or DATE: 1.0
+HOW TO START THIS PROJECT: import .greenfoot file in greenfoot app
+AUTHORS: Septa Adi Nugroho
